@@ -1,4 +1,3 @@
-#include<stdio.h>
 
 int p1(){
   int sum = 0;
